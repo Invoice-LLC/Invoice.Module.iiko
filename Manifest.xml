@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../Resto.Front.Api/Common/Manifest.xsd">
-  <FileName>Invoice.Modules.iiko.dll</FileName>
-  <TypeName>Invoice.Modules.iiko.InvoicePlugin</TypeName>
-  <ApiVersion>V6</ApiVersion>
-  <IsSingleInstance>true</IsSingleInstance>
-  <RestartOnCrash>true</RestartOnCrash>
-  <LicenseModuleId>21016318</LicenseModuleId>
-</Manifest>
