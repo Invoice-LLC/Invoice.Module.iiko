@@ -1,6 +1,6 @@
 ## Инструкция по установке плагина Invoice для iiko
 ### Касса 
-1. Скачать [Invoice.Installer.iiko.exe](https://github.com/Invoice-LLC/Invoice.Module.iiko/releases/download/1.0.0.0/Invoice.Installer.exe) и запустить от имени администратора
+1. Скачать [Invoice.Installer.iiko.exe](https://github.com/Invoice-LLC/Invoice.Module.iiko/releases/download/1.0.0.0/Invoice.Installer.iiko.exe) и запустить от имени администратора
 2. Нажать на установить<br>
 ![Нажать на установить](https://i.imgur.com/mHDaVXA.png)
 3. Согласится с лицензией<br>
