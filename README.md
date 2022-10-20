@@ -6,8 +6,15 @@
 ![Нажмите "Установить"](https://i.imgur.com/mHDaVXA.png)
 3. Подтвердите согласие с лицензией<br>
 ![Подтвердите согласие с лицензией](https://i.imgur.com/UJ4eKob.png)
-4. Укажите путь к iiko.Front, Merchant ID и API-ключ, который можно получить в личном кабинете Invoice в настройках.<br>
-![Укажите путь к iiko.Front, Merchant ID и API-ключ, который можно получить в личном кабинете Invoice в настройках](https://i.imgur.com/4P8AksV.png)
+4. Укажите путь к iiko.Front, Merchant ID и API-ключ.<br>
+![Укажите путь к iiko.Front, Merchant ID и API-ключ](https://user-images.githubusercontent.com/91345275/196215912-b7bdbce1-7ee9-4a56-83d9-712be2e90507.png)
+
+
+<br>Ключи можно получить в [личном кабинете Invoice](https://lk.invoice.su/) в настройках.<br>
+![image](https://user-images.githubusercontent.com/91345275/196212266-c12e333c-7369-4f6c-afbd-44d586ed3651.png)
+![image](https://user-images.githubusercontent.com/91345275/196212386-3ff0e98e-6c11-421e-b1c9-0f7cd00b72d4.png)
+
+
 5. Готово! Теперь перезагрузите iiko.Front.<br>
 ![Готово! Теперь перезагрузите iiko.Front](https://i.imgur.com/IoS4AEo.png)
 
