@@ -1,7 +1,7 @@
 ## Инструкция по установке плагина Invoice для iiko
 Для использования плагина необходима лицензия api Payment
 ### Касса 
-1. Скачайте [Invoice.Installer.iiko.exe](https://github.com/Invoice-LLC/Invoice.Module.iiko/releases/download/1.3.0.0/Invoice.Installer.exe) и запустите от имени администратора
+1. Скачайте [Invoice.Installer.iiko.exe](https://github.com/Invoice-LLC/Invoice.Module.iiko/releases/download/1.4.0.0/Invoice.Installer.exe) и запустите от имени администратора
 2. Нажмите "Установить"<br>
 ![Нажмите "Установить"](https://i.imgur.com/mHDaVXA.png)
 3. Подтвердите согласие с лицензией<br>
@@ -28,3 +28,4 @@
 ![Imgur](https://i.imgur.com/7MgRGwu.png)
 ![Imgur](https://i.imgur.com/jYC543Y.png)
 Пин-код **01599510**
+
